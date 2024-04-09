@@ -1,4 +1,4 @@
-tableRows = [
+[
   {
     "Document title": "Declaration of Independence",
     "Description": "<strong>Statement</strong> adopted by the Continental Congress declaring independence from the British Empire.",
@@ -39,4 +39,4 @@ tableRows = [
     "Description": "A milestone document in the history of human rights, proclaimed by the United Nations General Assembly in Paris on 10 December 1948.",
     "Year": 1948
   }
-];
+]
